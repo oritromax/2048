@@ -2,6 +2,10 @@
 
 A browser-based implementation of the 2048 puzzle game. Move tiles, merge matching numbers, and try to reach the 2048 tile—or beyond.
 
+> The sole reason i created this is the other ones are either full of ads or doesn't have a proper dark mode.
+
+### Hosted at [2048.shost.vip](https://2048.shost.vip)
+
 ## How to play
 
 - Use **arrow keys** (or swipe on touch devices) to move all tiles in that direction.
